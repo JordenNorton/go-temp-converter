@@ -15,3 +15,7 @@
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/JordenNorton/GoTempConverter.git
+
+## License
+
+Distributed under the MIT License. See LICENSE for more information.
