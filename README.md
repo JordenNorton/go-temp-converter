@@ -1,2 +1,17 @@
-# go-temp-converter
-GoTempConverter is a straightforward command-line tool that allows users to easily convert temperatures between Fahrenheit and Celsius. This project serves as a beginner-friendly introduction to Go programming, focusing on basic concepts like functions, user input handling, and conditional logic
+## Features
+
+- Convert temperatures from Fahrenheit to Celsius.
+- Convert temperatures from Celsius to Fahrenheit.
+- User-friendly command-line interface.
+
+## Getting Started
+
+### Prerequisites
+
+- Go (Version 1.15 or later recommended)
+
+### Installation
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/yourusername/GoTempConverter.git
