@@ -14,4 +14,4 @@
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/GoTempConverter.git
+   git clone https://github.com/JordenNorton/GoTempConverter.git
